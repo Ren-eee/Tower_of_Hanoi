@@ -1,0 +1,37 @@
+﻿  main.cpp
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(76,76): warning C4244: return: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=double
+          ]
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(107,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(109,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(212,89): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(212,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(212,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(292,99): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(292,68): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(292,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(308,100): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(308,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(308,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(331,99): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(331,68): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(331,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(344,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(353,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(376,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(402,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(410,80): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(410,122): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(411,80): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(411,122): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(412,80): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(412,122): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(485,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(503,97): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(503,66): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(503,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(229,11): warning C4101: dest: неиспользованная локальная переменная
+C:\Users\Milos\source\repos\Tower of Hanoi\Tower of Hanoi\main.cpp(684): warning C4715: print_rating: значение возвращается не при всех путях выполнения
+  Tower of Hanoi.vcxproj -> C:\Users\Milos\source\repos\Tower of Hanoi\Debug\Tower of Hanoi.exe
